@@ -1,0 +1,3 @@
+Requirs:	The latest linex, msim, mips-linux-gnu toolkit(32) and their dependence
+Notice:		please "make clean" before "make msim"
+Usage:		"msim -c run.conf" in this directory
